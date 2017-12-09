@@ -10,7 +10,6 @@
 {
     'name': 'POS Invoice reconcile',
     'version': '1.0.0',
-    'license': 'OPL-1',
     'category': 'Point of Sale',
     'author': 'Soltani Charif',
     'website': 'https://www.linkedin.com/in/soltani-charif-b0351811a/',
