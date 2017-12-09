@@ -13,8 +13,8 @@
     'category': 'Point of Sale',
     'author': 'Soltani Charif',
     'website': 'https://www.linkedin.com/in/soltani-charif-b0351811a/',
-    'price': 200,
-    'currency': 'USD',
+    'price': 75,
+    'currency': 'EUR',
     'summary': """
            Keep track of client payments and invoices.
            Enable partial payment for invoiced orders.
