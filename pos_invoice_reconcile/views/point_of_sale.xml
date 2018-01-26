@@ -5,8 +5,8 @@
     <data>
         <template id="assets_backend" name="pos_multi_users assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                     <script type="text/javascript" src="/pos_partial_payment/static/src/js/screens.js"></script>
-                    <script type="text/javascript" src="/pos_partial_payment/static/src/js/main.js"></script>
+                     <script type="text/javascript" src="/pos_invoice_reconcile/static/src/js/screens.js"></script>
+                    <script type="text/javascript" src="/pos_invoice_reconcile/static/src/js/main.js"></script>
             </xpath>
         </template>
     </data>
