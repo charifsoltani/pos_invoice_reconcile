@@ -12,9 +12,8 @@
     'version': '1.0.0',
     'category': 'Point of Sale',
     'author': 'Soltani Charif',
+    'license': 'AGPL-3',
     'website': 'https://www.linkedin.com/in/soltani-charif-b0351811a/',
-    'price': 75,
-    'currency': 'EUR',
     'summary': """
            Keep track of client payments and invoices.
            Enable partial payment for invoiced orders.
