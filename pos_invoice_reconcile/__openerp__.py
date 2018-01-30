@@ -8,7 +8,7 @@
 #    Created by Charif Soltani on 2018-01-01.
 #
 {
-    'name': 'POS Invoice reconcile',
+    'name': 'POS Invoice partial and full reconciliation',
     'version': '1.0.0',
     'category': 'Point of Sale',
     'author': 'Soltani Charif',
